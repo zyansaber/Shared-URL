@@ -1,0 +1,5 @@
+node_modules
+/.next
+*.gz
+
+.env.local
